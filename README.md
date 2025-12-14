@@ -3,7 +3,7 @@
 
 **An interactive geospatial visualization of the BlueBikes network, revealing the "pulse" of Boston's commute patterns through data.**
 
-🚲 <a href="https://musubi3.github.io/boston-bike-watching/" target="_blank"><strong>View Live Visualization</strong></a>
+🔗 <a href="https://musubi3.github.io/boston-bike-watching/" target="_blank"><strong>View Live Visualization</strong></a>
 
 ---
 
