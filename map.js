@@ -221,6 +221,11 @@ map.on('load', async () => {
     updatePositions();
     updateTimeDisplay();
 
+    const loader = document.getElementById('map-loader');
+    if (loader) {
+        loader.classList.add('hidden');
+    }
+
     map.on('move', updatePositions);
     map.on('zoom', updatePositions);
     map.on('resize', updatePositions);
